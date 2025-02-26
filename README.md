@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="200px" src="logo.png" />
+    <img width="200px" src="e2rank.png" />
     <h1 align="center">E2Rank</h1>
 </p>
 
