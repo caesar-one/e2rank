@@ -1,11 +1,11 @@
 <p align="center">
-    <img width="400px" src="e2rank.png" />
+    <img width="400px" src="e2rank-logo.png" />
 </p>
 
 
 # E2Rank: Efficient and Effective Layer-wise Reranking
 
-This repository contains the source code used for the experiments presented in the paper "E2Rank: Efficient and Effective Layer-wise Reranking" by Cesare Campagnano, Antonio Mallia and Fabrizio Silvestri, published at ECIR, 2025 - [PDF](./E2Rank.pdf). 
+This repository contains the source code used for the experiments presented in the paper "E2Rank: Efficient and Effective Layer-wise Reranking" by Cesare Campagnano, Antonio Mallia, Jack Pertschuk and Fabrizio Silvestri, published at ECIR, 2025 - [PDF](./E2Rank.pdf). 
 
 
 Please cite the following paper if you use this code, or a modified version of it:
