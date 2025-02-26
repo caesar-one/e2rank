@@ -12,7 +12,7 @@ Please cite the following paper if you use this code, or a modified version of i
 
 ```bibtex
 @inproceedings{e2rank,
-  author = {Cesare Campagnano and Antonio Mallia and Fabrizio Silvestri},
+  author = {Cesare Campagnano and Antonio Mallia and Jack Pertschuk and Fabrizio Silvestri},
   title = {E2Rank: Efficient and Effective Layer-wise Reranking},
   booktitle = {The 47th European Conference on Information Retrieval ({ECIR})},
   publisher = {ACM},
